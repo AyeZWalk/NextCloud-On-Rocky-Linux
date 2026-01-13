@@ -24,7 +24,7 @@ Validation
 ## Screenshots
 
 ### Permissions & Ownership
-![Permissions](../screenshots/01-permissions.png)
+![Permissions](01-permissions.png)
 
 ### SELinux Configuration
 ![SELinux](../screenshots/02-selinux-config.png)
