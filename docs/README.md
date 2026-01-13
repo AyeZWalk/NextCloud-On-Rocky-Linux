@@ -21,6 +21,20 @@ Steps I took
 
 Validation
 - screenshots and command outputs
+## Screenshots
+
+### Permissions & Ownership
+![Permissions](../screenshots/01-permissions.png)
+
+### SELinux Configuration
+![SELinux](../screenshots/02-selinux-config.png)
+
+### Nextcloud Install Complete
+![Install Complete](../screenshots/03-install-complete.png)
+
+### Admin System Page
+![Admin Page](../screenshots/04-admin-system-page.png)
+
 
 Security notes
 - tls, firewall, regular updates, backups
